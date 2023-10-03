@@ -1,0 +1,31 @@
+Update Log
+
+7/25/2023
+	Added Update Log (.txt)
+	Renamed Folder: "E_Nix_Music_Samples" to "Music Samples"
+	Modified Folder: Music Samples
+		Added Folder: Cammy's Theme
+			Added Cammy's Theme (pdf)
+			Added Cammy's Theme (mp3)
+	Renamed Folder: "Unity WIP" to "Unity"
+	Modified Folder: Unity
+		Modified Folder: Quiz Master
+			Added new Quiz Master build
+
+7/13/2023
+	Added Folder: DataStructuresLabs
+		Added Labs 2-9 (excluding Lab 6)
+	Added Folder: E_Nix_Music_Samples
+		Added MuseScore_Ice_World.mp3
+		Added MuseScore_Ruthie_Game_WIP.mp3
+		Added Pico8_Tracker_Sample_1.wav
+		Added Reaper_WIP1.wav
+	Added Folder: Ruthie's Game
+		Added Folder: drive-download-20230713T235424Z-001
+		(contains concept art and simple character sprites)
+	Added Folder: UnityWIP (Each folder contains game contents)
+		Added Folder: Delivery Driver
+		Added Folder: Laser Defender (Coming Soon)
+		Added Folder: Quiz Master
+		Added Folder: Snowboarder
+		Added Folder: TileVania (Coming Soon)
